@@ -1,7 +1,7 @@
 #include <Servo.h>
 
 /*
-code for arduino bord ultrasonic radar system.
+code for arduino ultrasonic radar system.
 */
              
 Servo leftRightServo;         // set a variable to map the servo
